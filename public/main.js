@@ -19,7 +19,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const result = await response.json();
                 console.log('Server response:', result); // Add this line
-                alert(result.message);
+                window.location.href = '/';
+
             } catch (error) {
                 console.error('Error updating event info:', error);
                 alert('Failed to update event info');

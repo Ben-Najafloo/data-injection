@@ -1,10 +1,9 @@
 {
   "event-info": [
     {
-      "Eventname": "Volleyball",
-      "Year": "2020",
-      "Startdate": "2022-02-22",
-      "Finishdate": "2222-02-20",
+      "Eventname": "Giro D'italia",
+      "Year": "2024",
+      "Startdate": "2024-07-15",
       "Firstsponsor": "Zytel",
       "Secondsponsor": "KSoft",
       "Thirdsponsor": "Eataly"
@@ -40,6 +39,21 @@
       "Team Cat.": "i",
       "Team Country": "Italy",
       "Team Continent": "America"
+    },
+    {
+      "id": 3,
+      "Lastname": "Najafloo",
+      "Firstname": "Bob",
+      "Sex": "M",
+      "Birthdate": "2024-04-16",
+      "Country": "Haiti",
+      "UCIID": "333",
+      "Team": "AC Milan",
+      "Year": "2024",
+      "Team ID": "UJI",
+      "Team Cat.": "fff",
+      "Team Country": "ISR",
+      "Team Continent": "ASI"
     }
   ]
 }
